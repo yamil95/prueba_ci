@@ -10,5 +10,7 @@ dataframe = pd.DataFrame(dictionary)
 def sumar (a:int,b:int):
     return a + b 
 
+def restar (a:int,b:int):
+    return a - b 
 
 
