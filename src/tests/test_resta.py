@@ -1,4 +1,4 @@
-from src.main  import restar
+from main  import restar
 
 
 
